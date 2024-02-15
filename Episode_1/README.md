@@ -22,9 +22,6 @@ Vous voici dans l'épisode1 des ateliers Colabs, le but de ce projet est de prog
     + [Fonction IA de OpenCv](#fonction-ia-de-opencv)
 - [FlowChart](#flowchart)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
 ----
 
 # Installation et Lancement
