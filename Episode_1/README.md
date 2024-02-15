@@ -22,7 +22,9 @@ To deploy this project run
   pip install djitellopy
   pip install opencv-python
 
-  python3 TelloFaceTracker.py
+  python3 TelloFaceTracker.py ## pour Lancer le FaceTracker avec le drone
+  python3 TelloBase.py ## pour Lancer le drone
+  python3 FaceDeteactor.py ## pour Lancer le FaceTracker sans le drone
 ```
 
 #Links
