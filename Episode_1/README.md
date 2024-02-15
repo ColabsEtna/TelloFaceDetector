@@ -54,7 +54,7 @@ Fonction name | Decription | Paramètres
 ### Fonction de modification vidéo
 
 Fonction name | Decription 
-------------- | ------------- | -------------
+------------- | -------------
 `VideoCapture(0)` | Précise l'entré vidéo
 `read()`   | récupère la vidéo 
 `imshow()`   | Affiche la vidéo
