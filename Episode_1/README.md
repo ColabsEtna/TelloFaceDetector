@@ -16,16 +16,35 @@ Vous voici dans l'épisode1 des ateliers Colabs, le but de ce projet est de prog
 
 # Installation et Lancement
 
-To deploy this project run
+##Installation 
 
 ```bash
   pip install djitellopy
   pip install opencv-python
+```
 
-  python3 TelloFaceTracker.py ## pour Lancer le FaceTracker avec le drone
-  python3 TelloBase.py ## pour Lancer le drone
+
+##Lancement 
+
+###Lancement de la detection du visage
+
+```bash
   python3 FaceDeteactor.py ## pour Lancer le FaceTracker sans le drone
 ```
+
+###Lancement du drône
+
+```bash
+  python3 TelloBase.py ## pour Lancer le drone
+```
+
+###Lancement de la detection du visage avec le drône
+
+```bash
+  python3 TelloFaceTracker.py ## pour Lancer le FaceTracker avec le drone
+```
+
+
 
 #Links
 
