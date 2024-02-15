@@ -8,9 +8,7 @@ Vous voici dans l'épisode1 des ateliers Colabs, le but de ce projet est de prog
 
 **Table of Contents**
 
-
-
-[TOC]
+- [Installation et Lancement](#Installation et Lancement)
 
 ----
 
