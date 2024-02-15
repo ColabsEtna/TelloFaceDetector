@@ -24,21 +24,21 @@ Vous voici dans l'épisode1 des ateliers Colabs, le but de ce projet est de prog
 ```
 
 
-##Lancement 
+## Lancement 
 
-###Lancement de la detection du visage
+### Lancement de la detection du visage
 
 ```bash
   python3 FaceDeteactor.py ## pour Lancer le FaceTracker sans le drone
 ```
 
-###Lancement du drône
+### Lancement du drône
 
 ```bash
   python3 TelloBase.py ## pour Lancer le drone
 ```
 
-###Lancement de la detection du visage avec le drône
+### Lancement de la detection du visage avec le drône
 
 ```bash
   python3 TelloFaceTracker.py ## pour Lancer le FaceTracker avec le drone
@@ -46,7 +46,7 @@ Vous voici dans l'épisode1 des ateliers Colabs, le but de ce projet est de prog
 
 
 
-#Links
+# Links
 
 [OpenCV documentation](https://docs.opencv.org/3.4/annotated.html)
 
@@ -54,7 +54,7 @@ Vous voici dans l'épisode1 des ateliers Colabs, le but de ce projet est de prog
 
 
 
-#Fonction utilisées
+# Fonction utilisées
 
 ## Fonction utilisées de Tello
 
@@ -96,7 +96,7 @@ Fonction name | Decription | Paramètres
 `CascadeClassifier()`   | Initialise le classifier d'objet ou de visage | Nom du fichier à partir duquel le classificateur est chargé.
 `detectMultiScale()`   | Détecte les objets de différentes tailles dans l'image d'entrée | aucuns utilisés
 
-#FlowChart
+# FlowChart
 
 ```flow
 st=>start: Drône
