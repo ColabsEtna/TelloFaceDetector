@@ -58,7 +58,7 @@ Fonction name | Decription
 `VideoCapture(0)` | Précise l'entré vidéo
 `read()`   | récupère la vidéo 
 `imshow()`   | Affiche la vidéo
-`waitKey()`   | Attend un touche  
+`waitKey()`   | Attend une touche  
 `destroyAllWindows()`   | Supprime la fenêtre de imshow 
 `cvtColor()`   | Change la couleur de la vidéo 
 `rectangle()`   | Créer un rectangle sur la vidéo 
