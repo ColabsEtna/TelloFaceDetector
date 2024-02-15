@@ -8,7 +8,22 @@ Vous voici dans l'épisode1 des ateliers Colabs, le but de ce projet est de prog
 
 **Table of Contents**
 
-- [Installation et Lancement](#Installation et Lancement)
+- [Installation et Lancement](#installation-et-lancement)
+  * [Installation](#installation)
+  * [Lancement](#lancement)
+    + [Lancement de la detection du visage](#lancement-de-la-detection-du-visage)
+    + [Lancement du drône](#lancement-du-dr-ne)
+    + [Lancement de la detection du visage avec le drône](#lancement-de-la-detection-du-visage-avec-le-dr-ne)
+- [Links](#links)
+- [Fonction utilisées](#fonction-utilis-es)
+  * [Fonction utilisées de Tello](#fonction-utilis-es-de-tello)
+  * [Fonction utilisées de OpenCV](#fonction-utilis-es-de-opencv)
+    + [Fonction de modification vidéo](#fonction-de-modification-vid-o)
+    + [Fonction IA de OpenCv](#fonction-ia-de-opencv)
+- [FlowChart](#flowchart)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ----
 
