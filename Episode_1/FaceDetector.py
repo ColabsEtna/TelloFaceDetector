@@ -5,7 +5,7 @@ import time
 cap = cv2.VideoCapture(0)
 _, img = cap.read()
 
-def find_face():
+def find_face(img):
     facecascade = cv2.CascadeClassifier("./ressources/haarcascade_frontalface_default.xml")
     imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     faces = facecascade.detectMultiScale(imgGray, 1.2, 8)
